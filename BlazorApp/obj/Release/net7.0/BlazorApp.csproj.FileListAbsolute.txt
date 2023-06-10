@@ -826,3 +826,4 @@ C:\Users\Wojciech\source\repos\BlazorApp\BlazorApp\obj\Release\net7.0\BlazorApp.
 C:\Users\Wojciech\source\repos\BlazorApp\BlazorApp\obj\Release\net7.0\refint\BlazorApp.dll
 C:\Users\Wojciech\source\repos\BlazorApp\BlazorApp\obj\Release\net7.0\BlazorApp.pdb
 C:\Users\Wojciech\source\repos\BlazorApp\BlazorApp\obj\Release\net7.0\ref\BlazorApp.dll
+C:\Users\Wojciech\source\repos\BlazorApp\BlazorApp\bin\Release\net7.0\.filenesting.json
